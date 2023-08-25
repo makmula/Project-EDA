@@ -21,8 +21,8 @@ This project uses mostly cleaning and sorting datasets in order to do descriptiv
 
 Though time the numbers of accidents have been decreasing:
 
-![Timeline of accidents]([<img width="933" alt="Timeline graph Aviation" src="https://github.com/makmula/Project-EDA/assets/141356197/7a7f0e8d-4bdd-43e5-9cb7-f388a4eb3104">](https://github.com/makmula/Project-EDA/blob/master/images/Timeline%20graph%20Aviation.png)
-)
+![Timeline of accidents]([<img width="933" alt="Timeline graph Aviation" src="https://github.com/makmula/Project-EDA/assets/141356197/7a7f0e8d-4bdd-43e5-9cb7-f388a4eb3104">](https://github.com/makmula/Project-EDA/blob/master/images/Timeline%20graph%20Aviation.png))
+
 
 There has been a positive decrease thoughtout the years. This decrease can be cause by many factors. However at the ended of the line graph 
 it shows a little increase of accidents again.
@@ -33,7 +33,7 @@ it shows a little increase of accidents again.
  - As you May be able to see in BOEING brand have models with 4 engines.
 
 
-![Models with more engines](Models_with_4_or_more_engines.png)
+![Models with more engines]([Models_with_4_or_more_engines.png](https://github.com/makmula/Project-EDA/blob/master/images/Models%20with%204%20or%20more%20engines.png))
 
 The models that have 4 engines or more are 747, the Heaviside2, B17. This airplanes that more engines are made in recent years starting 2015 mostly.
 

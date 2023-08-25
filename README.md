@@ -33,15 +33,15 @@ it shows a little increase of accidents again.
  - As you May be able to see in BOEING brand have models with 4 engines.
 
 
-![Models with more engines]([Models_with_4_or_more_engines.png](https://github.com/makmula/Project-EDA/blob/master/images/Models%20with%204%20or%20more%20engines.png))
+![Models with more engines](https://github.com/makmula/Project-EDA/blob/master/Image/Models%20with%204%20or%20more%20engines.png)
 
 The models that have 4 engines or more are 747, the Heaviside2, B17. This airplanes that more engines are made in recent years starting 2015 mostly.
 
-![Accidents vs Month](Months_vs_Accidents.png)
+![Accidents vs Month](https://github.com/makmula/Project-EDA/blob/master/Image/Months%20vs%20Accidents.png)
 
 June, July, and August have high accident counts. There are too many flights around this time of the year and this can be a reason why accidents happen more. However, it can be due to the weather.
 
-![Weather vs Accidents](Accidents_by_Weather_.png)
+![Weather vs Accidents](https://github.com/makmula/Project-EDA/blob/master/Image/Accidents%20by%20Weather%20.png)
 
 - VMC: Visual flight, clear weather
 - IMC : Fly by a flight instrument and is usually in bad weather

@@ -21,7 +21,8 @@ This project uses mostly cleaning and sorting datasets in order to do descriptiv
 
 Though time the numbers of accidents have been decreasing:
 
-![Timeline of accidents](Timeline_graph_Aviation.png)
+![Timeline of accidents](<img width="933" alt="Timeline graph Aviation" src="https://github.com/makmula/Project-EDA/assets/141356197/7a7f0e8d-4bdd-43e5-9cb7-f388a4eb3104">
+)
 
 There has been a positive decrease thoughtout the years. This decrease can be cause by many factors. However at the ended of the line graph 
 it shows a little increase of accidents again.

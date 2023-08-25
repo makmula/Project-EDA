@@ -61,3 +61,9 @@ June, July, and August have high accident counts. There are too many flights aro
 - Find out if our planes are commercial or private.
 
 ## Repository Structure
+├── data
+├── images
+├── .gitignore
+├── Aviation Data Analysis.pdf 
+├── Final_Notebook.ipynb
+└── README.md
